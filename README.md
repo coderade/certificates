@@ -2,6 +2,11 @@
 Repository that contain some of my certifications, courses and events certificates.
 The certificates are sorted by the date that I got the certificates.
 
+#####  Quick links
+* [Certifications](#certifications)
+* [Courses certificates](#courses-certificates)
+* [Events certificates](#events-certificates) 
+
 ## Certifications
 
 ###  **May 2015**
