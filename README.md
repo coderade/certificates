@@ -67,4 +67,18 @@ Language: EN-US
 
 Applier: [Pluralsight](https://www.pluralsight.com/)
 
+###  April 2014
+
+#### - Desenvolvimento de apps Windows 8.1 com HTML5 e JavaScript
+
+This series of videos presents the essential concepts involved in developing Windows 8.1 apps with HTML5 and JavaScript. The focus of the course is to explain the main functions and objects of the WinJS library, such as structuring code in namespaces and classes, declaration of WinJS controls and navigation, among others.
+
+![](Courses/Microsoft/windows-81-com-html5-e-javascript.png)
+
+Course URL: https://mva.microsoft.com/pt-br/training-courses/desenvolvimento-de-apps-windows-81-com-html5-e-javascript-introduo-8843
+
+Language: PT-BR
+
+Applier: [Microsoft Virtual Academy](https://mva.microsoft.com/)
+
 ## Events certificates
