@@ -328,7 +328,7 @@ Applier: [Lynda](https://www.lynda.com)
 
 ###  February 2017
 
-#### - Building a Mobile App with AngularJS 1 and Ionic
+#### - Programming Foundations: Web Security
 
 Learn about the most important security concerns when developing websites, and what you can do to keep your servers, software, and data safe from harm. Instructor Kevin Skoglund explains what motivates hackers and their most common methods of attacks, and then details the techniques and mindset needed to craft solutions for these web security challenges. Learn the eight fundamental principles that underlie all security efforts, the importance of filtering input and controlling output, and smart strategies for encryption and user authentication. Kevin also covers special considerations when it comes to credit cards, regular expressions, source code managers, and databases.
 
@@ -369,7 +369,7 @@ Course URL: https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x15
 
 Language: ES-MX
 
-Applier: [Lynda](https://www.lynda.com)
+Applier: [Microsoft Diplomados](http://www.microsoftdiplomados.com/)
 
 
 ## Events certificates
