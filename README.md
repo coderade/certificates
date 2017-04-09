@@ -207,6 +207,109 @@ Language: PT-BR
 
 Applier: [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
+###  December 2014
+
+#### - HTML5 - With the W3C quality badge
+
+With the W3C quality badge, this course targets all those who want to start working with HTML5 and get the main questions, as well as enhancing knowledge. This academy features a step-by-step format for introducing new HTML5 concepts. Here you can find what has changed to HTML5, use of new tags, how to work with videos, how to use the Geolocation API, work with storage and offline applications among many other subjects.
+
+![](Courses/Microsoft/html5-w3c-quality-badge.png)
+
+Course URL: https://mva.microsoft.com/pt-br/training-courses/html5-homologado-pelo-w3c-8551
+
+Language: PT-BR
+
+Applier: [Microsoft Virtual Academy](https://mva.microsoft.com/)
+
+###  January 2015
+
+#### - Jump Start on Building Web Apps with ASP.NET
+
+This Jump Start is suitable for experienced application developers interested in leveraging ASP.NET and Visual Studio 2012 to offer modern applications that target modern browsers. Three of Microsoft's most experienced ASP.NET speakers provide an accelerated introduction on building web application development with ASP.NET 4.5 and ASP.NET MVC 4, targeting key scenarios such as building mobile-ready sites, Social web applications, and more.
+
+![](Courses/Microsoft/jump-start-app-dev-aspnet.png)
+
+Course URL: https://mva.microsoft.com/pt-br/training-courses/jump-start-sobre-constru-o-de-web-apps-com-asp-net-12646
+
+Language: PT-BR
+
+Applier: [Microsoft Virtual Academy](https://mva.microsoft.com/)
+
+
+###  February 2015
+
+#### - How to debug a Web site with the Internet Explorer F12 tools
+
+If you want to know how to debug a site with the Internet Explorer F12 tools, check out this course! Experts show you how to use the tools to quickly find out why a website or a web page is not working correctly. Explore web standards and learn how to create a great website that can work seamlessly on any device and browser. Learn how to optimize your page, test it on multiple browsers and more, all created by experts!
+
+![](Courses/Microsoft/debug-website-ie-f12-tools.png)
+
+Course URL: https://mva.microsoft.com/pt-br/training-courses/como-depurar-um-site-com-as-ferramentas-f12-do-internet-explorer-8658
+
+Language: PT-BR
+
+Applier: [Microsoft Virtual Academy](https://mva.microsoft.com/)
+
+
+###  March 2015
+
+#### - Java Mobile Applications (J2ME)
+
+This course aims to impart knowledge in the development and use of wireless applications using J2ME.
+In the first part of the course you will learn about J2ME architecture, its usage and environment. This material also introduces MIDlets and explains the various stages of developing a MIDlet.
+The second part talks about programming with CLDC and MIDP, GUI in MIDlets, I / O management in MIDlets, MIDP networks, record management system and the future of J2ME.
+
+![](Courses/EV-Bradesco/programming-logic.png)
+
+Course URL: http://www.ev.org.br/Cursos/Lists/Cursos/CursosOnline.aspx?List=98e0d3db-98a8-470b-add0-1ca8f9acf05c&ID=102
+
+Language: PT-BR
+
+Applier: [Escola Virtual Bradesco](http://www.ev.org.br/Paginas/Home.aspx)
+
+###  April 2015
+
+#### - Maven Fundamentals
+
+This course covers all of the basic fundamentals of Maven. It covers dependencies, plugins, repositories, IDE integrations, and all the basic commands of Maven.
+
+![](Courses/Pluralsight/maven-fundamentals-pluralsight.png)
+
+Course URL: https://www.pluralsight.com/courses/maven-fundamentals
+
+Language: EN-US
+
+Applier: [Pluralsight](https://www.pluralsight.com/)
+
+###  August 2015
+
+#### - Angular Fundamentals
+
+In this course, you will learn how simple it is to use Angular to create maintainable and testable single page applications. You will learn how to: bootstrap your Angular application; use AngularJS markup and expressions; create and use controllers; use built-in services and create custom services; turn your application into a SPA using routing; and create your own custom elements and handle events using directives. You will also learn how AngularJS allows you to do all thing using test-driven-development.
+
+![](Courses/Pluralsight/angular-js-fundamentals-pluralsight.png)
+
+Course URL: https://www.pluralsight.com/courses/angularjs-fundamentals
+
+Language: EN-US
+
+Applier: [Pluralsight](https://www.pluralsight.com/)
+
+
+###  April 2016
+
+#### - Building Angular and Node.js Apps with the MEAN Stack
+
+The MEAN stack is becoming more and more popular. Angular has become the hottest new MVC framework, and using it with Node and Express means a high level of harmony between the client and server. Throw MongoDB on for data storage, and you have JavaScript from front to back. These applications are quick to put together, and represent the modern state of web application development. This course will help you get a full application up and running in no time, and introduce you to all the core concepts you need to build applications utilizing these technologies.
+
+![](Courses/Pluralsight/angularjs-meanstack-pluralsight.png)
+
+Course URL: https://www.pluralsight.com/courses/angularjs-fundamentals
+
+Language: EN-US
+
+Applier: [Pluralsight](https://www.pluralsight.com/)
+
 ## Events certificates
 
 ###  May 2014
