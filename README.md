@@ -310,6 +310,68 @@ Language: EN-US
 
 Applier: [Pluralsight](https://www.pluralsight.com/)
 
+
+###  November 2016
+
+#### - Building a Mobile App with AngularJS 1 and Ionic
+
+Creating hybrid mobile applications is a great way to leverage your knowledge of web languages like HTML5, CSS, and JavaScript. Modern frameworks such as AngularJS and Ionic make it easier with pre-built templates and components. In this course, staff author Ray Villalobos shows how to install the Ionic framework and set up a development environment suitable for building web-based apps. He reviews the core Ionic components: prebuilt, easy-to-use features such as buttons, lists, tabs, and forms. Then Ray shows how to combine these components with Angular.js models, views, and controllers to build a single page app with sliders, pull-to-refresh functionality, and search. The training culminates in building a multi-page app, which you'll learn how to customize with CSS.
+
+![](Courses/Lynda/ionic1-lynda.png)
+
+Course URL: https://www.lynda.com/AngularJS-tutorials/Building-Mobile-App-AngularJS-1-Ionic/368920-2.html
+
+Language: EN-US
+
+Applier: [Lynda](https://www.lynda.com)
+
+
+###  February 2017
+
+#### - Building a Mobile App with AngularJS 1 and Ionic
+
+Learn about the most important security concerns when developing websites, and what you can do to keep your servers, software, and data safe from harm. Instructor Kevin Skoglund explains what motivates hackers and their most common methods of attacks, and then details the techniques and mindset needed to craft solutions for these web security challenges. Learn the eight fundamental principles that underlie all security efforts, the importance of filtering input and controlling output, and smart strategies for encryption and user authentication. Kevin also covers special considerations when it comes to credit cards, regular expressions, source code managers, and databases.
+
+This course is great for developers who want to secure their client's websites, and for anyone else who wants to learn more about web security.
+
+Topics include:
+* Why security matters
+* What is a hacker?
+* How to write a security policy
+* Cross-site scripting (XSS)
+* Cross-site request forgery (CSRF)
+* SQL injection
+* Session hijacking and fixation
+* Passwords and encryption
+* Secure credit card payments
+
+
+![](Courses/Lynda/websecurity-lynda.png)
+
+Course URL: https://www.lynda.com/Web-Development-tutorials/Foundations-Programming-Web-Security/133330-2.html
+
+Language: EN-US
+
+Applier: [Lynda](https://www.lynda.com)
+
+
+###  November 2016
+
+#### - SPECIALIZATION "Open Source + Azure for DevOps"
+
+Want to support more agility in your dev, test, and deploy scenarios? Whether you're a Developer working in agile or an IT Pro in a growing enterprise, you know that modern software applications are heterogeneous, they include both Linux- and Windows-based components. At the same time, development processes continue to become more agile, and operations teams are responding in kind.
+
+Watch how leading experts explore common open source tooling and show you what's possible, from a zero-process environment to a fully automated and deployed production environment. Get a working definition of DevOps, examine version control, and take a look at shareable environments and automated testing. Plus, get tips on what to explore next.
+
+![](Courses/Microsoft/opensource-azure-devops.jpg)
+
+Course URL: https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x1573239480e
+
+Language: ES-MX
+
+Applier: [Lynda](https://www.lynda.com)
+
+
 ## Events certificates
 
 ###  May 2014
