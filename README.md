@@ -180,6 +180,19 @@ Language: PT-BR
 
 Applier: [Cursos livres EAD](http://www.cursoslivresead.com.br/)
 
+###  September 2014
+
+#### - Software Development Fundamentals with .Net
+
+In this course you will have an overview of how to develop applications in .NET (ASP.NET and Desktop), what is object-oriented programming, how to access database, use of web services, language control and error handling .
+
+![](Courses/Microsoft/software-fundamentals.png)
+
+Course URL: https://mva.microsoft.com/pt-br/training-courses/fundamentos-do-desenvolvimento-de-software-8544
+
+Language: PT-BR
+
+
 ###  November 2014
 
 #### - Quick introduction to HTML5 development with JavaScript and CSS3
