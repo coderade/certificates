@@ -14,12 +14,14 @@ A Java SE 7 Oracle Certified Associate (OCA) has built a foundational understand
 
 Certification URL: https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-803
 
+Applier: [Oracle University](http://education.oracle.com)
+
 Language: EN-US
 
 Claim: https://www.youracclaim.com/badges/683c766e-2b75-4d06-8d87-b638339efc37
 
 
-#### - Expert User, RunRunIT
+#### - Expert User, RunRun.it
 A universal test that validates if the user has advanced knowledge with the RunRun.it tool, testing the knowledge acquired at all levels of a RunRun.it user.
 
 ![](RunRunIT/runrunit.png)
@@ -28,8 +30,20 @@ Certification URL: http://landing.runrun.it/certificacao-runrun-2/
 
 Language: PT-BR
 
+Applier: [RunRun.it](https://runrun.it/en-US)
 
 ## Courses certificates
 
+###  February 2013
+
+#### - Front-End Web Development Quick Start With HTML5, CSS, and JavaScript
+
+For the beginner, starting to learn web development can be daunting. In this course, Shawn Wildermuth shows you step-by-step how to use client-side web development techniques to create immersive web sites.
+
+Course URL: https://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css
+
+Language: EN-US
+
+Applier: [Pluralsight](https://www.pluralsight.com/)
 
 ## Events certificates
