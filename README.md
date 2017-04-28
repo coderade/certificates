@@ -356,22 +356,6 @@ Applier: [Lynda](https://www.lynda.com)
 
 ##  April 2017
 
-#### - Ruby on Rails 5 Essential Training   
-
-Learn how to create full-featured, object-oriented web applications with the latest version of the popular, open-source Ruby on Rails framework. Ruby on Rails 5 Essential Training covers the essential features of the framework, along with best practices and real-world development techniques, resulting in a complete application with dynamic, database-driven content. Follow along to build your own version of the example project, a data-driven content management system, while you learn how to route browser requests, structure databases, render pages with dynamic content, process and validate form data, and configure authentication. Instructor Kevin Skoglund, founder of web development agency Nova Fabrica, also introduces the design principles of CRUD and helps you master Rail's built-in helpers. By the end of the course, you should be able to use Ruby on Rails to build robust web applications that are both easy to scale and maintain.
-
-
-![](Courses/Lynda/rails-5-e-training-lynda.png)
-
-Course URL: https://www.lynda.com/Ruby-Rails-tutorials/Ruby-Rails-5-Essential-Training/500551-2.html
-
-Language: EN-US
-
-Applier: [Lynda](https://www.lynda.com)
-
-
-###  November 2016
-
 #### - SPECIALIZATION "Open Source + Azure for DevOps"
 
 Want to support more agility in your dev, test, and deploy scenarios? Whether you're a Developer working in agile or an IT Pro in a growing enterprise, you know that modern software applications are heterogeneous, they include both Linux- and Windows-based components. At the same time, development processes continue to become more agile, and operations teams are responding in kind.
@@ -385,6 +369,20 @@ Course URL: https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x15
 Language: ES-MX
 
 Applier: [Microsoft Diplomados](http://www.microsoftdiplomados.com/)
+
+
+#### - Ruby on Rails 5 Essential Training   
+
+Learn how to create full-featured, object-oriented web applications with the latest version of the popular, open-source Ruby on Rails framework. Ruby on Rails 5 Essential Training covers the essential features of the framework, along with best practices and real-world development techniques, resulting in a complete application with dynamic, database-driven content. Follow along to build your own version of the example project, a data-driven content management system, while you learn how to route browser requests, structure databases, render pages with dynamic content, process and validate form data, and configure authentication. Instructor Kevin Skoglund, founder of web development agency Nova Fabrica, also introduces the design principles of CRUD and helps you master Rail's built-in helpers. By the end of the course, you should be able to use Ruby on Rails to build robust web applications that are both easy to scale and maintain.
+
+
+![](Courses/Lynda/rails-5-e-training-lynda.png)
+
+Course URL: https://www.lynda.com/Ruby-Rails-tutorials/Ruby-Rails-5-Essential-Training/500551-2.html
+
+Language: EN-US
+
+Applier: [Lynda](https://www.lynda.com)
 
 
 ## Events certificates
