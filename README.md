@@ -398,6 +398,20 @@ Language: EN-US
 
 Applier: [Lynda](https://www.lynda.com)
 
+
+
+#### - Umbraco Jumpstart
+
+Umbraco is a simple to use open-source content management system (CMS) on the .NET platform. However, taking your first steps might be a bit tricky if you don't know where to start. Throughout this course we'll look at what makes up Umbraco websites and how to use the Umbraco UI to do everything we desire.
+
+![](Courses/Pluralsight/umbraco-jumpstart-pluralsight.png)
+
+Course URL: https://www.pluralsight.com/courses/umbraco-jumpstart
+
+Language: EN-US
+
+Applier: [Pluralsight](https://www.pluralsight.com/)
+
 ## Events certificates
 
 ###  May 2014
