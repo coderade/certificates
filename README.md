@@ -384,6 +384,19 @@ Language: EN-US
 
 Applier: [Lynda](https://www.lynda.com)
 
+##  May 2017
+
+#### - Ruby on Rails 5 Essential Training   
+
+This course shows what is new in Ruby on Rails 5, the first major release of Rails in three years. Rails 5 is faster, uses less memory, and offers many new features and improvements. Learn to use ActionCable to access WebSockets and to design real-time features like chat, games, and notifications. Discover how to configure Rails to serve as a JSON backend, how to use the new version of Turbolinks to optimize page loading, and how to render templates independently of controllers. Learn about the many new, time-saving methods and other improvements throughout Rails 5. Watch this course to find out how key changes will affect your code. Expert Kevin Skoglund examines all of the major new features, as well as the deprecations and deletions in the framework.
+
+![](Courses/Lynda/rails-5-new-features.png)
+
+Course URL: https://www.lynda.com/Ruby-Rails-tutorials/Ruby-Rails-5-New-Features/482054-2.html
+
+Language: EN-US
+
+Applier: [Lynda](https://www.lynda.com)
 
 ## Events certificates
 
