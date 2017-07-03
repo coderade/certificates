@@ -386,7 +386,7 @@ Applier: [Lynda](https://www.lynda.com)
 
 ##  May 2017
 
-#### - Ruby on Rails 5 Essential Training   
+#### - Ruby on Rails 5 New Features   
 
 This course shows what is new in Ruby on Rails 5, the first major release of Rails in three years. Rails 5 is faster, uses less memory, and offers many new features and improvements. Learn to use ActionCable to access WebSockets and to design real-time features like chat, games, and notifications. Discover how to configure Rails to serve as a JSON backend, how to use the new version of Turbolinks to optimize page loading, and how to render templates independently of controllers. Learn about the many new, time-saving methods and other improvements throughout Rails 5. Watch this course to find out how key changes will affect your code. Expert Kevin Skoglund examines all of the major new features, as well as the deprecations and deletions in the framework.
 
@@ -411,6 +411,21 @@ Course URL: https://www.pluralsight.com/courses/umbraco-jumpstart
 Language: EN-US
 
 Applier: [Pluralsight](https://www.pluralsight.com/)
+
+
+## July 2017
+
+#### - Learning Java Enterprise Edition
+
+The Java Enterprise Edition (EE) platform is built on Java Standard Edition (SE) to provide a powerful enterprise computing solution. It runs hundreds of thousands of the most dynamic and powerful sites on the web—everything from your favorite small business to Fortune 500 systems. Watch this introduction to learn the essentials of Java EE 7 and start developing with this exciting platform. Alex Theedom provides a high-level view of the Java EE ecosystem, covering the 12 most important APIs. Learn how to use JavaServer Faces to construct interactive views, implement Java Message Service to decouple your application, ensure data integrity with Bean Validation, create dynamic sites with WebSocket, and much more.
+
+![](Courses/Lynda/lynda-learning-java-ee.png)
+
+Course URL: https://www.lynda.com/Java-tutorials/Java-Enterprise-Edition-Introduction/516591-2.html
+
+Language: EN-US
+
+Applier: [Lynda](https://www.lynda.com)
 
 ## Events certificates
 
