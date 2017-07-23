@@ -415,6 +415,20 @@ Applier: [Pluralsight](https://www.pluralsight.com/)
 
 ## July 2017
 
+#### - Test-driven Rails with RSpec, Capybara, and Cucumber
+
+Learn how to test-drive your Rails application from scratch. This course covers everything you need to start your TDD journey: you'll learn the main principles behind test-driven development, and you'll see how to write acceptance, controller, and model specs. You'll also learn how to use Factory Girl gem to prepare data for your specs and how to test most common cases in web development. By the end of this course, you'll see how all these parts come together while we test-drive features for real Rails applications.
+
+![](Courses/Pluralsight/tdd-rspec-cucumber-rails-pluralsight.png)
+
+Course URL: https://www.pluralsight.com/courses/test-driven-rails-rspec-capybara-cucumber
+
+Language: EN-US
+
+Applier: [Pluralsight](https://www.pluralsight.com/)
+
+
+
 #### - Learning Java Enterprise Edition
 
 The Java Enterprise Edition (EE) platform is built on Java Standard Edition (SE) to provide a powerful enterprise computing solution. It runs hundreds of thousands of the most dynamic and powerful sites on the web—everything from your favorite small business to Fortune 500 systems. Watch this introduction to learn the essentials of Java EE 7 and start developing with this exciting platform. Alex Theedom provides a high-level view of the Java EE ecosystem, covering the 12 most important APIs. Learn how to use JavaServer Faces to construct interactive views, implement Java Message Service to decouple your application, ensure data integrity with Bean Validation, create dynamic sites with WebSocket, and much more.
