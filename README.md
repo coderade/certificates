@@ -462,15 +462,7 @@ Applier: [Cesar.Edu](http://www.cesar.edu.br)
 
 #### - Campus Party Brasil
 
-A Campus Party oferece a base necessária para o lançamento de inovações tecnológicas de ponta que vão transformar os mais importantes setores da economia do planeta nas próximas décadas, revolucionando de forma que o mundo nunca viu.
-
-Participantes tiverem acesso a:
-* Palestras
-* Workshops
-* Hackathons
-* Bancadas
-* Internet Cabeada de Alta Velocidade
-* Networking com campuseiros
+The Campus Party provides the necessary foundation for the launch of state-of-the-art technological innovations that will transform the most important sectors of the planet's economy in the coming decades, revolutionizing in ways the world has never seen.
 
 
 ![](Events/CampusParty/campus-party-2017.png)
