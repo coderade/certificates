@@ -456,3 +456,27 @@ Event URL: http://www.cesar.edu.br/techday-2-0/
 Language: PT-BR
 
 Applier: [Cesar.Edu](http://www.cesar.edu.br)
+
+
+###  February 2017
+
+#### - Campus Party Brasil
+
+A Campus Party oferece a base necessária para o lançamento de inovações tecnológicas de ponta que vão transformar os mais importantes setores da economia do planeta nas próximas décadas, revolucionando de forma que o mundo nunca viu.
+
+Participantes tiverem acesso a:
+* Palestras
+* Workshops
+* Hackathons
+* Bancadas
+* Internet Cabeada de Alta Velocidade
+* Networking com campuseiros
+
+
+![](Events/Campus Party/campus-party-2017.png)
+
+Event URL: http://brasil.campus-party.org
+
+Language: PT-BR
+
+Applier: [Campus Party](http://campus-party.org)
