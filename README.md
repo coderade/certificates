@@ -473,7 +473,7 @@ Participantes tiverem acesso a:
 * Networking com campuseiros
 
 
-![](Events/Campus Party/campus-party-2017.png)
+![](Events/CampusParty/campus-party-2017.png)
 
 Event URL: http://brasil.campus-party.org
 
