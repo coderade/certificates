@@ -150,19 +150,6 @@ Language: PT-BR
 
 Applier: [Escola Virtual Bradesco](http://www.ev.org.br/Paginas/Home.aspx)
 
-#### - Written communication
-
-In this course, you will learn grammar contents that are very important for the correct use of the Portuguese language, such as punctuation, chronology and spelling.
-
-The course provides all the basic information necessary to compose a text with objectivity, clarity and conciseness. In addition, it is updated in relation to the New Spelling Agreement.
-
-![](Courses/EV-Bradesco/portuguese-written-communication.png)
-
-Course URL: http://www.ev.org.br/Cursos/Lists/Cursos/CursosOnline.aspx?List=98e0d3db-98a8-470b-add0-1ca8f9acf05c&ID=103
-
-Language: PT-BR
-
-Applier: [Escola Virtual Bradesco](http://www.ev.org.br/Paginas/Home.aspx)
 
 ###  October 2014
 
@@ -325,6 +312,26 @@ Language: EN-US
 
 Applier: [Lynda](https://www.lynda.com)
 
+
+###  December 2016
+
+#### - Android Development Essential Training: Create Your First App
+
+Explore the world of Android app development. This training course prepares you to create your very first Android app—helping you understand the technologies at work and prepare your computer for development and testing. Learn how to configure Android Studio, the Android SDK, and emulator software, and study the different files in a typical Android app: build scripts, the app manifest file, permissions tags, and icons. Finally, learn how an app is built from the bottom up, with screens, activities, and layouts. David Gassner shows how to define the visual presentation with XML and widgets, and control the logic with Java code. This simple overview is designed to provide you with everything you need to know to understand the Android development process. Later courses in the Essentials series concentrate on the specific skills you need to master.
+Topics include:
+Installing Android Studio
+Creating your first Android Studio project
+Managing profile files, including Gradle scripts and support libraries
+Defining screens with activities
+Implementing designs in XML layouts
+
+![](Courses/Lynda/android-dev-essential-training.png)
+
+Course URL: https://www.lynda.com/Android-tutorials/Welcome/518053/563032-4.html
+
+Language: EN-US
+
+Applier: [Lynda](https://www.lynda.com)
 
 ###  February 2017
 
