@@ -361,7 +361,7 @@ Language: EN-US
 
 Applier: [Lynda](https://www.lynda.com)
 
-##  April 2017
+###  April 2017
 
 #### - SPECIALIZATION "Open Source + Azure for DevOps"
 
@@ -391,7 +391,7 @@ Language: EN-US
 
 Applier: [Lynda](https://www.lynda.com)
 
-##  May 2017
+###  May 2017
 
 #### - Ruby on Rails 5 New Features   
 
@@ -406,7 +406,6 @@ Language: EN-US
 Applier: [Lynda](https://www.lynda.com)
 
 
-
 #### - Umbraco Jumpstart
 
 Umbraco is a simple to use open-source content management system (CMS) on the .NET platform. However, taking your first steps might be a bit tricky if you don't know where to start. Throughout this course we'll look at what makes up Umbraco websites and how to use the Umbraco UI to do everything we desire.
@@ -419,8 +418,34 @@ Language: EN-US
 
 Applier: [Pluralsight](https://www.pluralsight.com/)
 
+###  June 2017
 
-## July 2017
+#### - React.js Essential Training
+
+Among all other JavaScript libraries, React.js stands out. It relies on reusable components, not templates, for UI development, allowing developers to render views where data changes over time. React applications are more scalable and more maintainable, making developers more efficient and users more satisfied. In this course, Eve Porcello introduces the history and basics of the React library and show how to use it to create two projects: a browser-based activity counter app and a simple website for displaying data drawn from an API. Along the way, learn how to set up your development environment, including helpful tools such as Babel and webpack; create new components; use props and state to pass data between components; use routes to map URLs to views; and organize projects with nested components and routes. By the end of the course, you'll understand the essentials of React.js and be able to start building your own browser-based projects.
+
+Topics include:
+
+Refactoring elements with JSX
+Transpiling with Babel
+Creating components
+Adding component properties and methods
+Displaying child components
+Working with props and state
+Setting up routes
+Nesting routes
+Creating forms
+Understanding the component life cycle
+
+![](Courses/Lynda/react-essential-lynda.png)
+
+Course URL: https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html
+
+Language: EN-US
+
+Applier: [Lynda](https://www.lynda.com)
+
+### July 2017
 
 #### - Test-driven Rails with RSpec, Capybara, and Cucumber
 
@@ -447,6 +472,32 @@ Course URL: https://www.lynda.com/Java-tutorials/Java-Enterprise-Edition-Introdu
 Language: EN-US
 
 Applier: [Lynda](https://www.lynda.com)
+
+###  August 2017
+
+#### - From React to React Native
+
+With React Native, you can leverage your existing React knowledge to build native iOS and Android apps. In this course, explore the different components that make up a basic React Native application, and learn how to use this platform to build your own native projects. Instructor Emmanuel Henri walks through how to set up and start a React Native project, and then provides an overview of the React Native folder structure. Emmanuel also goes into the proper conversion of your views, explains how to create your tab navigation, helps you add and finalize your styles, discusses back-end considerations, and explores final steps to complete your React Native project.
+
+Topics include:
+
+Initiating a React Native project
+Creating your data files
+Creating your React course listing view
+Creating your tab navigation
+Adding material design styles
+Finalizing your styles
+Filtering your courses for the views
+Reviewing debugging options
+
+![](Courses/Lynda/from-react-to-native-lynda.png)
+
+Course URL: https://www.lynda.com/React-Native-tutorials/From-React-React-Native/577371-2.html
+
+Language: EN-US
+
+Applier: [Lynda](https://www.lynda.com)
+
 
 ## Events certificates
 
