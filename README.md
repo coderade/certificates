@@ -5,7 +5,7 @@ The certificates are sorted by the date that I got the certificates.
 #####  Quick links
 * [Certifications](#certifications)
 * [Courses certificates](#courses-certificates)
-* [Events certificates](#events-certificates) 
+* [Events certificates](#events-certificates)
 
 ## Certifications
 
@@ -84,7 +84,7 @@ Applier: [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
 ###  May 2014
 
-#### - Storage Fundamentals 
+#### - Storage Fundamentals
 
 Intel is at the forefront of providing technology that is being used to enable the deployment of scale-up and scale-out storage solutions. The Storage Fundamentals Program provides the foundation for understanding data storage,technology and architectures used in the Data Center and Cloud and an overview of Intel’s Technology and Vision for modernizing storage and evolving to a Software Defined Infrastructure.
 
@@ -498,12 +498,39 @@ Language: EN-US
 
 Applier: [Lynda](https://www.lynda.com)
 
+###  January 2018
+
+#### - Using the Serverless Framework with Node.js on AWS
+
+The Serverless Framework is the world's leading development framework for building serverless applications. This course teaches you the basics of the framework and how to use it to build event-driven microservice applications that auto-scale.
+
+![](Courses/Pluralsight/serverless-nodejs-pluralsight.png)
+
+Course URL: https://app.pluralsight.com/library/courses/aws-nodejs-serverless-framework-using/table-of-contents
+
+Language: EN-US
+
+Applier: [Pluralsight](https://www.pluralsight.com/)
+
+###  May 2018
+
+#### - AWS Developer: The Big Picture
+
+Amazon Web Services is the biggest cloud computing service in the world, used by huge enterprises and startups alike. This course will give you a solid overview of what AWS is, how it can be used, and the various ways it can be accessed.
+
+![](Courses/Pluralsight/aws-developer-the-big-picture-pluralsight.png)
+
+Course URL: https://app.pluralsight.com/library/courses/aws-developer-big-picture/table-of-contents
+
+Language: EN-US
+
+Applier: [Pluralsight](https://www.pluralsight.com/)
 
 ## Events certificates
 
 ###  May 2014
 
-#### - TECHDAY 2.0 
+#### - TECHDAY 2.0
 
 The CESAR, through its education unit, CESAR.EDU held the TECHDAY 2.0, the second edition of the event that promotes the dissemination of knowledge in the area of Information Technology and Communication. The event will consist of several online lectures, presented by CESAR employees with great professional experience. In all, there will be 6 lectures of 45 minutes each in the areas of development, project management, configuration management and information security.
 
