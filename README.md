@@ -562,6 +562,51 @@ Language: EN-US
 
 Applier: [Pluralsight](https://www.pluralsight.com/)
 
+###  June 2018
+ 
+#### - Get Ready for Your Coding Interview
+    
+If you've nabbed an interview for a software development position, it's likely that you'll have to face a common hurdle—the coding interview. If you're not sure what to expect, or you'd like to brush up on the essential topics that candidates are often tested on, then this course is for you.
+
+Follow YK Sugishita as he explains what to keep in mind as you prepare for coding interviews. YK covers useful concepts that can help you master your interview, followed by practice problems that test what you know. YK reviews key concepts such as two-dimensional arrays, time complexity, Big-O notation, and hash tables. To wrap up, he shares a few tips for acing your interview, such as how to come up with an optimal solution. Even if you're not prepping for an upcoming job interview, tackling the coding problems covered in this course is a great way to sharpen your programming skills.
+
+
+![](Courses/LinkedinLearning/ready-code-interview.png)
+
+Course URL: https://www.linkedin.com/learning/get-ready-for-your-coding-interview
+
+Language: EN-US
+
+Applier: [Linkedin Learning](https://www.linkedin.com/learning)
+
+###  October 2018
+ 
+#### - AWS API Gateway with HTTP, Lambda, DynamoDB, and iOS
+    
+Learn how to create RESTful APIs the easy way with Amazon Web Services (AWS). The AWS API Gateway allows developers to create custom RESTful APIs with whatever logic, endpoints, format, and code they choose, along with an SDK for the client of choice, such as iOS. You can even wrap another API or call code to return data. In this course, instructor Bear Cahill shows how to create RESTful APIs with the API Gateway, using HTTP requests and AWS Lambda functions to read and write to an AWS DynamoDB. Plus, learn how to use the generated API to create the source code for the client project—an iOS app—with Swagger.
+
+![](Courses/LinkedinLearning/aws-api-gateway-lambda-dynamo-ios.png)
+
+Course URL: https://www.linkedin.com/learning/aws-api-gateway-with-http-lambda-dynamodb-and-ios
+
+Language: EN-US
+
+Applier: [Linkedin Learning](https://www.linkedin.com/learning)
+
+###  December 2018
+ 
+#### - Learning Cloud Computing: Serverless Computing
+    
+Serverless computing allows you to build and run applications and services without having to manage infrastructure. This training course is targeted at IT professionals who need to gain a foundational knowledge of serverless computing—what it is and why it's important—and what's offered by serverless computing technologies like AWS Lambda and Azure Functions. Instructor David Linthicum begins with the basics: what serverless computing is and the problems it can solve. He then runs through demos of both Lambda and Functions and explores effective use cases for serverless computing.
+
+![](Courses/LinkedinLearning/learning-cloud-serverless.png)
+
+Course URL: https://www.linkedin.com/learning/aws-api-gateway-with-http-lambda-dynamodb-and-ios
+
+Language: EN-US
+
+Applier: [Linkedin Learning](https://www.linkedin.com/learning)
+
 ###  February 2019
 
 #### - TypeScript for Node.js Developers
