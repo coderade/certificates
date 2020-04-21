@@ -562,21 +562,6 @@ Language: EN-US
 
 Applier: [Pluralsight](https://www.pluralsight.com/)
 
-###  June 2018
-
-#### - AWS Developer: The Big Picture
-
-Amazon Web Services is the biggest cloud computing service in the world, used by huge enterprises and startups alike. This course will give you a solid overview of what AWS is, how it can be used, and the various ways it can be accessed.
-
-![](Courses/Pluralsight/aws-developer-the-big-picture-pluralsight.png)
-
-Course URL: https://app.pluralsight.com/library/courses/aws-developer-big-picture/table-of-contents
-
-Language: EN-US
-
-Applier: [Pluralsight](https://www.pluralsight.com/)
-
-
 ###  February 2019
 
 #### - TypeScript for Node.js Developers
