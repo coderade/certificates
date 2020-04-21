@@ -1,0 +1,6 @@
+# IDE stuff
+.idea
+
+# Environment files
+.env
+ecosystem.config.js

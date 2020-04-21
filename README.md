@@ -512,6 +512,42 @@ Language: EN-US
 
 Applier: [Pluralsight](https://www.pluralsight.com/)
 
+###  February 2018
+
+#### - DevOps Foundations
+
+In this course, well-known DevOps practitioners Ernest Mueller and James Wickett provide an overview of the DevOps movement, focusing on the core value of CAMS (culture, automation, measurement, and sharing). They cover the various methodologies and tools an organization can adopt to transition into DevOps, looking at both agile and lean project management principles and how old-school principles like ITIL, ITSM, and SDLC fit within DevOps.
+
+![](Courses/LinkedinLearning/devops-foundations.png)
+
+Course URL: https://www.linkedin.com/learning/devops-foundations
+
+Language: EN-US
+
+Applier: [Linkedin Learning](https://www.linkedin.com/learning)
+
+
+###  April 2018
+
+#### - Node.js: Extend and Maintain Applications
+
+       
+When you create enterprise-scale applications with Node.js—which often involves manipulating massive amounts of data and
+integrating with other applications—you must take special care to ensure that your projects are successful. 
+In this course, instructor Daniel Khan walks through how to create solid, production-ready Node.js applications, 
+and manage efficient processes that make it easy to roll out new versions. Daniel shares ways to improve code quality. 
+He explains how to create a test infrastructure with Mocha, Should, and Istanbul. He also shows how to set up continuous 
+integration, explains how to add endpoint security and get continuous deployment, and more.
+Learning Objectives:
+
+![](Courses/LinkedinLearning/nodejs-extend-n-maintain-apps.png)
+
+Course URL: https://www.linkedin.com/learning/node-js-extend-and-maintain-applications
+
+Language: EN-US
+
+Applier: [Linkedin Learning](https://www.linkedin.com/learning)
+
 ###  May 2018
 
 #### - AWS Developer: The Big Picture
@@ -525,6 +561,56 @@ Course URL: https://app.pluralsight.com/library/courses/aws-developer-big-pictur
 Language: EN-US
 
 Applier: [Pluralsight](https://www.pluralsight.com/)
+
+###  June 2018
+
+#### - AWS Developer: The Big Picture
+
+Amazon Web Services is the biggest cloud computing service in the world, used by huge enterprises and startups alike. This course will give you a solid overview of what AWS is, how it can be used, and the various ways it can be accessed.
+
+![](Courses/Pluralsight/aws-developer-the-big-picture-pluralsight.png)
+
+Course URL: https://app.pluralsight.com/library/courses/aws-developer-big-picture/table-of-contents
+
+Language: EN-US
+
+Applier: [Pluralsight](https://www.pluralsight.com/)
+
+
+###  February 2019
+
+#### - TypeScript for Node.js Developers
+       
+As your development needs grow with your enterprise, you need better tools and syntax when working with Node.js. 
+This is where using TypeScript with Node.js can be a perfect next step. TypeScript is a superset of JavaScript that 
+offers optional static type checking, as well as support for the latest JavaScript features. In this course, 
+Emmanuel Henri helps Node.js developers quickly get up to speed with TypeScript as he steps through how to best leverage 
+this popular language in Node.js applications. To begin, he shows how to set up TypeScript and familiarizes you with its 
+file conventions. He then discusses how to use types in Node.js, leverage TypeScript tools to organize your application, 
+and use iterators and decorators. To wrap up, he shares resources that can help you further explore all that TypeScript 
+has to offer.
+
+![](Courses/LinkedinLearning/typescript-nodejs-devs.png)
+
+Course URL: https://www.linkedin.com/learning/typescript-for-node-js-developers
+
+Language: EN-US
+
+Applier: [Linkedin Learning](https://www.linkedin.com/learning)
+
+###  May 2019
+
+#### - Learning Ansible
+       
+Automation tools can help transform unwieldly IT tasks—managing zero downtime rolling updates, for example—into something far more manageable. In this course, explore Ansible, an easy-to-use IT automation engine. To begin, instructor Jesse Keating explains what the Ansible system is, and how to install Ansible on a Linux operating system so you can start experimenting with it. Next, Jesse goes into the different components in an Ansible system, covering concepts such as how to work with hosts and variables and control task and play behavior. After he goes over the fundamental concepts of this system, Jesse shares some of the high-level use cases that Ansible was designed to tackle.
+
+![](Courses/LinkedinLearning/learning-ansible.png)
+
+Course URL: https://www.linkedin.com/learning/learning-ansible
+
+Language: EN-US
+
+Applier: [Linkedin Learning](https://www.linkedin.com/learning)
 
 ## Events certificates
 
